@@ -1,8 +1,7 @@
 package prjava43lara21; 
 import java.awt.*;        // using AWT containers and components 
 
-import java.awt.event.*;  // using AWT events and listener interfaces 
-import java.sql.*;
+import java.awt.event.*;  // using AWT events and listener interfaces
 import java.text.*;
 
 import java.io.*;
